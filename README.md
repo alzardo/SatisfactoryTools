@@ -2,15 +2,14 @@
 Satisfactory Tools for planning and building the perfect base.
 
 ## Requirements
-- node.js version 16 (lower may work, 17+ doesn't work)
+- Node.js version 20 or newer
 - yarn
-- PHP 7.1+
 
 ## Installation
 - `git clone git@github.com:greeny/SatisfactoryTools.git`
 - `yarn install`
 - `yarn build`
-- Set up a virtual host pointing to `/www` directory (using e.g. Apache or ngnix)
+- `yarn serve` to start the local server
 
 ## Contributing
 Any pull requests are welcome, though some rules must be followed:
